@@ -39,8 +39,10 @@
 ![Alt text](./images/38.jpg "Optional Title")<br>
 
 
-
-
+## Part 4. Обновление ОС
+- ``Обновили системные пакеты до последней версии``<br>
+![Alt text](./images/41.jpg "Optional Title")<br>
+![Alt text](./images/42.jpg "Optional Title")<br>
 
 
 
