@@ -32,9 +32,11 @@
 - ``Задали статичные настройки ip, gw, dns, изменив файл /etc/netplan/*.yaml``<br>
 ![Alt text](./images/36.png "Optional Title")<br>
 
+- ``Выполнили команду reboot. Статичные сетевые настройки (ip, gw, dns) соответствуют заданным в предыдущем пункте``<br>
+![Alt text](./images/37.jpg "Optional Title")<br>
 
-
-
+- ``Пропинговали удаленные хосты 1.1.1.1``<br>
+![Alt text](./images/38.jpg "Optional Title")<br>
 
 
 
