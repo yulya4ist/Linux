@@ -12,5 +12,5 @@
 - ![Alt text](./images/31.jpg "Optional Title")<br>
 - ``Установливаем временную зону, соответствующую вашему текущему местоположению.``<br>
 - ![Alt text](./images/32.jpg "Optional Title")<br>
-- ''Вывовдим названия сетевых интерфейсов ''<br> 
-- - ![Alt text](./images/33.jpg "Optional Title")<br>
+- ``Вывовдим названия сетевых интерфейсов``<br> 
+- ![Alt text](./images/33.jpg "Optional Title")<br>
