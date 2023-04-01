@@ -44,7 +44,11 @@
 ![Alt text](./images/41.jpg "Optional Title")<br>
 ![Alt text](./images/42.jpg "Optional Title")<br>
 
-
+## Part 5. Использование команды sudo
+-<b>sudo</b> - позволяет временно поднимать привилегии и выполнять задачи администрирования системы с максимальными правами
+``Добавили пользователя в группу с привилегиями sudo, переключились на этого пользователя и поменяли hostname``<br>
+![Alt text](./images/5.jpg "Optional Title")<br>
+![Alt text](./images/51.jpg "Optional Title")<br>
 
 
 
