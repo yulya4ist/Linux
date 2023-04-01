@@ -70,11 +70,48 @@
 <b>VIM</b>. Для выхода без сохранения :q! <br>
 ![Alt text](./images/74.jpg "Optional Title")<br>
 
-<b>NANO</b>.  Для выхода без сохранения: ^X, No<br>
+<b>NANO</b>.  Для выхода без сохранения: ^X, N<br>
 ![Alt text](./images/75.jpg "Optional Title")<br>
 
-<b>JOE</b>. Для выхода без сохранения: ^C, yes<br>
+<b>JOE</b>. Для выхода без сохранения: ^C, y<br>
 ![Alt text](./images/76.jpg "Optional Title")<br>
+
+
+- ``Используя каждый из трех выбранных редакторов, отредактируйте файл ещё раз, а затем освойте функции поиска по содержимому файла (слово) и замены слова на любое другое.``<br>
+
+<b>VIM</b>. Для поиска: /"cлово для поиска" <br>
+![Alt text](./images/731.jpg "Optional Title")<br>
+ Для замены: :s/"cлово для замены"/"замена" <br>
+![Alt text](./images/732.jpg "Optional Title")<br>
+ 
+ 
+<b>NANO</b>. Для поиска: ^W <br>
+![Alt text](./images/733.jpg "Optional Title")<br>
+ Для замены: ^R <br>
+![Alt text](./images/734.jpg "Optional Title")<br>
+
+<b>JOE</b>. Для поиска: ^K F <br>
+![Alt text](./images/735.jpg "Optional Title")<br>
+ Для замены: ^K F, затем R, Y <br>
+![Alt text](./images/736.jpg "Optional Title")<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
