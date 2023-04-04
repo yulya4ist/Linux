@@ -129,14 +129,15 @@
 
 ## Part 9. Установка и использование утилит top, htop
 -<b>top</b>: <br>
- -<b>Uptime<b>: 1 min <br>
+ -<b>Uptime</b>: 1 min <br>
  -<b>количество авторизованных пользователей</b>: 1 user<br>
  -<b>общую загрузку системы</b>: Load average: 0.00, 0.00, 0.00<br>
  -<b>общее количество процессов</b>: 151 total<br>
  -<b>загрузку cpu</b>: %Cpu(s): 0.2 us, 0.0 sy, 0.0 ni, 99.7 id, 0.0 wa, 0.0 hi, 0.2 si, 0.0 st<br>
  -<b>загрузку памяти</b>: MiB Mem: 1975,8 total, 692,0 free, 336,0 used, 947,9 buff/cache<br>
  -<b>pid процесса занимающего больше всего памяти</b>: 1273<br>
- -<bpid процесса, занимающего больше всего процессорного времени></b>: 696<br>
+ -<b>
+ pid процесса, занимающего больше всего процессорного времени></b>: 696<br>
 
 - <b>htop</b>
  - отсортированный по PID
@@ -172,10 +173,25 @@
     - процент использования: 72%<br>
 - Единица измерения: ext4.
 
+## Part 12. Использование утилиты **du**
+- ``du command``<br>
+![Alt text](./images/12_1.png "Optional Title")
+- ``sudo du -h /home``<br>
+![Alt text](./images/12_2.png "Optional Title")
+- ``sudo du -h /var``<br>
+![Alt text](./images/12_3.png "Optional Title")
+- ``sudo du -h /var/log/*``<br>
+![Alt text](./images/12_4.png "Optional Title")
 
-
-
-
+## Part 13. Установка и использование утилиты **ncdu**
+- ``Устанавливаем nc``<br>
+![Alt text](./images/13_0.png "Optional Title")
+- ``ncdu /home``<br>
+![Alt text](./images/13_1.png "Optional Title")
+- ``ncdu /var``<br>
+![Alt text](./images/13_2.png "Optional Title")
+- ``ncdu /var/log/*``<br>
+![Alt text](./images/13_3.png "Optional Title")
 
 
  
