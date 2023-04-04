@@ -127,8 +127,16 @@
 <b>0.0.0.0</b> - это немаршрутизируемый адрес IPv4, который используется в качестве адреса по умолчанию или адреса-заполнителя. <br>
 
 
-
-
+## Part 9. Установка и использование утилит top, htop
+-htop
+ - отсортированному по PID
+   ![Alt text](./images/91.png "Optional Title")
+ - отсортированному по PERCENT_CPU
+   ![Alt text](./images/92.png "Optional Title")
+ - отсортированному по PERCENT_MEM
+   ![Alt text](./images/93.png "Optional Title")
+ - отсортированному по TIME
+   ![Alt text](./images/94.png "Optional Title")
 
 
 
