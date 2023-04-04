@@ -128,18 +128,31 @@
 
 
 ## Part 9. Установка и использование утилит top, htop
--htop
- - отсортированному по PID
+-<b>top</b>:
+ -<b>Uptime<b>: 1 min
+ -<b>количество авторизованных пользователей</b>: 1 user
+ -<b>общую загрузку системы</b>: Load average: 0.00, 0.00, 0.00
+ -<b>общее количество процессов</b>: 151 total
+ -<b>загрузку cpu</b>: %Cpu(s): 0.2 us, 0.0 sy, 0.0 ni, 99.7 id, 0.0 wa, 0.0 hi, 0.2 si, 0.0 st
+ -<b>загрузку памяти</b>: MiB Mem: 1975,8 total, 692,0 free, 336,0 used, 947,9 buff/cache
+ -<b>pid процесса занимающего больше всего памяти</b>: 1273
+ -<bpid процесса, занимающего больше всего процессорного времени></b>: 696
+
+- <b>htop</b>
+ - отсортированный по PID
    ![Alt text](./images/91.png "Optional Title")
- - отсортированному по PERCENT_CPU
+ - отсортированный по PERCENT_CPU
    ![Alt text](./images/92.png "Optional Title")
- - отсортированному по PERCENT_MEM
+ - отсортированный по PERCENT_MEM
    ![Alt text](./images/93.png "Optional Title")
- - отсортированному по TIME
+ - отсортированный по TIME
    ![Alt text](./images/94.png "Optional Title")
-
-
-
+ - отфильтрованный для процесса sshd:
+   ![Alt text](./images/95.png "Optional Title")
+ - с процессом syslog, найденным, используя search
+   ![Alt text](./images/96.png "Optional Title")
+ - с добавленным выводом hostname, clock и uptime
+   ![Alt text](./images/97.png "Optional Title")
 
 
 
