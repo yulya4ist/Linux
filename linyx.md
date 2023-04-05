@@ -203,16 +203,9 @@
  ## Part 15. Использование планировщика заданий CRON
  - запуск команды uptime через каждые 2 минуты <br>
 ![Alt text](./images/151.png "Optional Title")
- - Выполнение задачи каждые 2 минуты
+ - Выполнение задачи каждые 2 минуты <br>
 ![Alt text](./images/152.png "Optional Title")
- - Список задач
+ - Список задач <br>
 ![Alt text](./images/153.png "Optional Title")
- - Удаление задач и вывод списка
+ - Удаление задач и вывод списка <br>
 ![Alt text](./images/154.png "Optional Title")
- 
- 
- 
- 
- 
-
-
