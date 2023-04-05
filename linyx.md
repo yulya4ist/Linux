@@ -193,9 +193,22 @@
 ![Alt text](./images/13_3.png "Optional Title")
 
 
- 
- 
- 
+## Part 14. Работа с системными журналами
+- Время последней успешной авторизации, имя пользователя и метод входа в систему<br>
+![Alt text](./images/142.png "Optional Title")
+- Перезапустить службу SSHd <br>
+![Alt text](./images/143.png "Optional Title")
+
+
+ ## Part 15. Использование планировщика заданий CRON
+ - запуск команды uptime через каждые 2 минуты <br>
+![Alt text](./images/151.png "Optional Title")
+ - Выполнение задачи каждые 2 минуты
+![Alt text](./images/152.png "Optional Title")
+ - Список задач
+![Alt text](./images/153.png "Optional Title")
+ - Удаление задач и вывод списка
+![Alt text](./images/154.png "Optional Title")
  
  
  
